@@ -1,3 +1,5 @@
+# Rock Paper Scissors Lizard Spock
+# 4/6/2023
 import random
 
 print("""
