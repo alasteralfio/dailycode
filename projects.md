@@ -3,11 +3,10 @@
 * RPSLS (4/6/2023)
 > Rock, Paper, Scissors, Lizard, Spock.
 * Password Generator (5/6/2023)
-
+* Word Counter (6/6/2023)
 
 
 ### Ideas
-* Word Counter
 * Caesar Cipher
 * Calculator (Just like Windows!)
 * Word of the Day
