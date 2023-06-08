@@ -1,3 +1,6 @@
+# Word of the Day
+# 8/6/2023
+
 import requests
 from bs4 import BeautifulSoup
 
