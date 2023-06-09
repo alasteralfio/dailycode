@@ -5,6 +5,7 @@
 * Word Counter (6/6/2023)
 * Caesar Cipher (7/6/2023)
 * Word of the Day (8/6/2023)
+* CodeWars (9/6/2023)
 
 ### Ideas
 * Calculator (Just like Windows!)
