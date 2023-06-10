@@ -6,9 +6,9 @@
 * Caesar Cipher (7/6/2023)
 * Word of the Day (8/6/2023)
 * CodeWars (9/6/2023)
+* Calculator (10/6/2023)
 
 ### Ideas
-* Calculator (Just like Windows!)
 * Word of the Day IMPROVED
 * Hangman
 * Currency Converter (Real Time!)
