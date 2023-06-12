@@ -8,6 +8,7 @@
 * CodeWars (9/6/2023)
 * Calculator (10/6/2023)
 * CodeWars (11/6/2023)
+* CodeWars (12/6/2023)
 
 ### Ideas
 * Word of the Day IMPROVED
