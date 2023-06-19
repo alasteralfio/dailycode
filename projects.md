@@ -10,6 +10,12 @@
 * CodeWars (11/6/2023)
 * CodeWars (12/6/2023)
 * CodeWars (13/6/2023)
+* CodeWars (14/6/2023)
+* CodeWars (15/6/2023)
+* CodeWars (16/6/2023)
+* CodeWars (17/6/2023)
+* CodeWars (18/6/2023)
+* CodeWars (19/6/2023)
 
 ### Ideas
 * Word of the Day IMPROVED
