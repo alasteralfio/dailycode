@@ -15,12 +15,11 @@ def zero_fuel(distance_to_pump, mpg, fuel_left):
 
 # Write a function that takes in a string of one or more words, and returns the same string,
 # but with all five or more letter words reversed (Just like the name of this Kata). Strings
-# passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
+# passed in will consist of only letters and spaces. Spaces will be included only when more 
+# than one word is present.
 def spin_words(sentence):
-    i = list(sentence.split())
-    for word in i:
-        if word.index() % 2 == 0:
-            i[word] = word[::-1]
-    print(i)
-
-spin_words('I am a cow')
+    words = sentence.split()
+    for i in range(len(words)):
+        if len(words[i]) >= 5:
+            words[i] = words[i][::-1]
+    return ' '.join(words)
